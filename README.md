@@ -1,7 +1,8 @@
 Personal Website
 ----------------
 
-[Click to go to Website](http://satra.cogitatum.org/www)
+[Click to go to Website](https://satra.cogitatum.org/www)
+Note that you may receive a warning about a certificate. This is ok at the moment.
 
 Uses the following [Solid](https://github.com/solid/solid) components.
 
